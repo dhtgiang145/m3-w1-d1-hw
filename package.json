@@ -1,0 +1,12 @@
+{
+  "name": "m3-w1-d1-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server_task1"
+  },
+  "author": "Giang Do",
+  "license": "ISC"
+}
